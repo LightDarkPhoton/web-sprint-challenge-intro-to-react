@@ -1,8 +1,8 @@
 
 const theme = {
-    primaryColor: 'royalblue',
+    primaryColor: 'purple',
     secondaryColor: 'crimson',
-    tertiaryColor: 'lime',
+    tertiaryColor: 'black',
     paddingSmall: '1em',
     paddingMedium: '1.5',
     white: 'white',
